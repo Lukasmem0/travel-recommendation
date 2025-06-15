@@ -1,6 +1,6 @@
 
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('data/recommendations.json')
+    fetch('/wanderlust/data/recommendations.json')
         .then(response => response.json())
         .then(data => {
             const recommendationsContainer = document.getElementById('recommendations');
