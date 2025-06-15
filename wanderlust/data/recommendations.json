@@ -1,0 +1,47 @@
+[
+    {
+        "type": "beach",
+        "title": "🏖️ Paradise Beach Destinations",
+        "description": "Escape to pristine beaches with crystal-clear waters and soft white sand. Perfect for relaxation and water sports.",
+        "images": [
+            {
+                "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+                "alt": "Tropical Beach"
+            },
+            {
+                "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+                "alt": "Beach Sunset"
+            }
+        ]
+    },
+    {
+        "type": "temple",
+        "title": "🏛️ Sacred Temple Journeys",
+        "description": "Discover ancient temples with stunning architecture and rich cultural heritage.",
+        "images": [
+            {
+                "src": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=800&q=80",
+                "alt": "Ancient Temple"
+            },
+            {
+                "src": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80",
+                "alt": "Temple Complex"
+            }
+        ]
+    },
+    {
+        "type": "country",
+        "title": "🗾 Japan: Land of Rising Sun",
+        "description": "Experience Japan's blend of ancient traditions and modern innovation, from temples to bustling cities.",
+        "images": [
+            {
+                "src": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?auto=format&fit=crop&w=800&q=80",
+                "alt": "Japan Landscape"
+            },
+            {
+                "src": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=800&q=80",
+                "alt": "Japanese Culture"
+            }
+        ]
+    }
+]
